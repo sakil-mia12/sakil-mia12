@@ -1,4 +1,4 @@
-![I am sakil-mia12]((https://github.com/sakil-mia12/sakil-mia12/blob/main/Shakil%20banner.png)
+![I am sakil-mia12](https://github.com/sakil-mia12/sakil-mia12/blob/main/Shakil%20banner.png)
 
 <h1 align="center">Hi 👋, I'm SHAKIL KHAN </h1>
 <h3 align="center">Programmer | Web Designer | Automation Engineer | Speed Learner</h3>
